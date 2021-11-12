@@ -26,62 +26,9 @@
 </head>
 
 <body>
-    <!-- Top Bar Start -->
-    <div class="top-bar d-none d-md-block">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-md-8">
-                    <div class="top-bar-left">
-                        <div class="text">
-                            <i class="fa fa-phone"></i>
-                            <h2>+91 79778 24184</h2>
-                            <p>Mon- Fir</p>
-                        </div>
-                        <div class="text">
-                            <i class="fa fa-envelope"></i>
-                            <h2>kodarishailesh@yahoo.co.in</h2>
-                            <p>For Query</p>
-
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="top-bar-right">
-                        <!-- <div class="social">
-                            <a href=""><i class="fab fa-twitter"></i></a>
-                            <a href=""><i class="fab fa-facebook-f"></i></a>
-                            <a href=""><i class="fab fa-linkedin-in"></i></a>
-                            <a href=""><i class="fab fa-instagram"></i></a>
-                        </div> -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Top Bar End -->
-
-    <!-- Nav Bar Start -->
-    <div class="navbar navbar-expand-lg bg-dark navbar-dark">
-        <div class="container-fluid">
-            <img src="./img/img/icon.png" alt="">
-            <a href="index.html" class="navbar-brand">Shailesh Singh | IPS</a>
-            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-
-            <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
-                <div class="navbar-nav ml-auto">
-                    <a href="index.php" class="nav-item nav-link active">Home</a>
-                    <a href="about.html" class="nav-item nav-link">About Me</a>
-                    <a href="blog.html" class="nav-item nav-link">Firm Beliver</a>
-
-                    <a href="contact.php" class="nav-item nav-link">Contact</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Nav Bar End -->
+  <?php
+  include 'navbar.php';
+  ?>
 
 
     <!-- Carousel Start -->
@@ -168,6 +115,7 @@
                             <div class="first bg-white p-4 text-center"> <img src="./img/img/PREM.png" />
                                 <h5>Meritorious Service</h5>
                                 <p class="line1">In 2005, I was awarded the Police Medal for Meritorious Service.</p>
+                                <a href="MeritoriousServiceAward.php" class="btn btn-warning">Know More</a>
                             </div>
                         </div>
                     </div>
@@ -177,6 +125,7 @@
                                 <h5>Distinguished Service</h5>
                                 <p class="line2">In 2015,I was awarded the President’s Police Medal for Distinguished
                                     Service.</p>
+                                    <a href="DistinguishedServiceAward.php" class="btn btn-warning">Know More</a>
                             </div>
                         </div>
                     </div>
@@ -266,7 +215,7 @@
                                 Shaheed Bhagat Singh, who sacrificed his life to oust Britishers from India, is considered as one of the most influential revolutionaries of the Indian Independence Movement. Born on September 28, 1907, Bhagat Singh is an inspiration for the youth of India because of his courage and heroism in the freedom struggle.
 
                             </p>
-                            <a class="btn" href="single.html">Read More</a>
+                            <a class="btn" href="single.php">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -288,7 +237,7 @@
                             <p>
                                 “Study so that you are able to meet arguments of your opponents. Equip your ideology with supporting arguments. If you oppose a prevailing belief, if you criticize a great person who is considered to be an incarnation, you will find that your criticism will be answered by calling you vain and egoist..... ”
                             </p>
-                            <a class="btn" href="single1.html">Read More</a>
+                            <a class="btn" href="single1.php">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -308,7 +257,7 @@
                             <p>
                                 “मेरा नाम हिन्दुस्तानी इंकलाब पार्टी का निशान बन चुका है और इंकलाब पसंद पार्टी के आदर्शों और बलिदानों ने मुझे बहुत ऊंचा कर दिया है । इतना ऊंचा कि जिंदा रहने की सूरत में इससे ऊंचा मैं हरगिज नहीं हो सकता। इसके सिवा कोई लालच मेरे दिल में फांसी से बचे रहने के लिए कभी नहीं आया, मुझसे ज्यादा खुशकिस्मत कौन होगा । मुझे आज तक अपने आप पर बहुत नाज है ......
                             </p>
-                            <a class="btn" href="single2.html">Read More</a>
+                            <a class="btn" href="single2.php">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -318,71 +267,9 @@
     <!-- Blog End -->
 
 
-  <!-- Footer Start -->
-  <div class="footer">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-7">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="footer-contact">
-                            <h2>Contact Info</h2>
-                            
-                            <p><i class="fa fa-phone-alt"></i>+91 79778 24184</p>
-                            <p><i class="fa fa-envelope"></i>ikodarishailesh@yahoo.co.in</p>
-                            <!-- <div class="footer-social">
-                                <a href=""><i class="fab fa-twitter"></i></a>
-                                <a href=""><i class="fab fa-facebook-f"></i></a>
-                                <a href=""><i class="fab fa-youtube"></i></a>
-                                <a href=""><i class="fab fa-instagram"></i></a>
-                                <a href=""><i class="fab fa-linkedin-in"></i></a>
-                            </div> -->
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-            <div class="col-lg-5">
-                <div class="footer-newsletter">
-                    <h2>Shailesh Singh</h2>
-                    <p>
-                    DG in Police Reforms at Police Headquarters, Bhopal <br>
-                    Thank you for visiting my personal website.
-                    </p>
-
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container copyright">
-        <div class="row">
-            <div class="col-md-6">
-                <p>&copy; <a href="#">Shailesh Singh</a>, All Right Reserved.</p>
-            </div>
-            <div class="col-md-6">
-                <p>Designed By <a href="#">Shailesh Singh</a></p>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Footer End -->
-
-    <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
-
-    <!-- JavaScript Libraries -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
-    <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="lib/waypoints/waypoints.min.js"></script>
-    <script src="lib/counterup/counterup.min.js"></script>
-
-    <!-- Contact Javascript File -->
-    <script src="mail/jqBootstrapValidation.min.js"></script>
-    <script src="mail/contact.js"></script>
-
-    <!-- Template Javascript -->
-    <script src="js/main.js"></script>
+  <?php
+  include 'footer.php';
+  ?>
 </body>
 
 </html>

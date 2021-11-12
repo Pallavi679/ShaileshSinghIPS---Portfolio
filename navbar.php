@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Shailesh Singh | Thank You</title>
+    <title>Shailesh Singh | Home</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Shailesh Singh IPS" name="keywords">
     <meta content="Shailesh Singh IPS" name="description">
@@ -23,11 +23,9 @@
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
-
-
 </head>
 
-<body class="page">
+<body>
     <!-- Top Bar Start -->
     <div class="top-bar d-none d-md-block">
         <div class="container-fluid">
@@ -75,71 +73,14 @@
             <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                 <div class="navbar-nav ml-auto">
                     <a href="index.php" class="nav-item nav-link active">Home</a>
-                    <a href="about.html" class="nav-item nav-link">About Me</a>
-                    <a href="blog.html" class="nav-item nav-link">Firm Beliver</a>
+                    <a href="about.php" class="nav-item nav-link">About Me</a>
+                    <a href="blog.php" class="nav-item nav-link">Firm Beliver</a>
 
                     <a href="contact.php" class="nav-item nav-link">Contact</a>
                 </div>
             </div>
         </div>
     </div>
-    <div class="conatiner">
-        <div class="jumbotron jumbotron-fluid mt-125 spacing_from_top jumbotron_thankyou">
-            <div class="container">
-                <h1 class="display-4 text-center">Thank You!</h1>
-                <p class="lead text-center">We will contact you surely!.</p>
-            </div>
-        </div>
-    </div>
-   <!-- Footer Start -->
-   <div class="footer">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-7">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="footer-contact">
-                            <h2>Contact Info</h2>
-                            
-                            <p><i class="fa fa-phone-alt"></i>+91 79778 24184</p>
-                            <p><i class="fa fa-envelope"></i>kodarishailesh@yahoo.co.in</p>
-                            <!-- <div class="footer-social">
-                                <a href=""><i class="fab fa-twitter"></i></a>
-                                <a href=""><i class="fab fa-facebook-f"></i></a>
-                                <a href=""><i class="fab fa-youtube"></i></a>
-                                <a href=""><i class="fab fa-instagram"></i></a>
-                                <a href=""><i class="fab fa-linkedin-in"></i></a>
-                            </div> -->
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-            <div class="col-lg-5">
-                <div class="footer-newsletter">
-                    <h2>Shailesh Singh</h2>
-                    <p>
-                    DG in Police Reforms at Police Headquarters, Bhopal <br>
-                    Thank you for visiting my personal website.
-                    </p>
-
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container copyright">
-        <div class="row">
-            <div class="col-md-6">
-                <p>&copy; <a href="#">Shailesh Singh</a>, All Right Reserved.</p>
-            </div>
-            <div class="col-md-6">
-                <p>Designed By <a href="#">Shailesh Singh</a></p>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Footer End -->
-
+    <!-- Nav Bar End -->
 </body>
-
 </html>
