@@ -36,7 +36,7 @@
                         <div class="footer-contact">
                             <h2>Contact Info</h2>
                             
-                            <p><i class="fa fa-phone-alt"></i>+91 79778 24184</p>
+                            <!-- <p><i class="fa fa-phone-alt"></i>+91 79778 24184</p> -->
                             <p><i class="fa fa-envelope"></i>kodarishailesh@yahoo.co.in</p>
                             <!-- <div class="footer-social">
                                 <a href=""><i class="fab fa-twitter"></i></a>

@@ -26,7 +26,7 @@
 </head>
 
 <body>
-  <?php
+    <?php
   include 'navbar.php';
   ?>
 
@@ -37,10 +37,10 @@
             <div class="owl-carousel">
                 <div class="carousel-item">
                     <div class="carousel-img">
-                        <img src="./img/img/Shailesh Singh.png" alt="Image">
+                        <img src="./img/img/Shailesh Singh1.png" alt="Image">
                     </div>
                     <div class="carousel-text">
-                        
+
 
                     </div>
                 </div>
@@ -49,7 +49,7 @@
                         <img src="./img/img/fifth img.jpeg" alt="Image">
                     </div>
                     <div class="carousel-text">
-                        
+
 
                     </div>
                 </div>
@@ -58,7 +58,7 @@
                         <img src="./img/img/fourth img.jpeg" alt="Image">
                     </div>
                     <div class="carousel-text">
-                        
+
 
                     </div>
                 </div>
@@ -89,11 +89,21 @@
                     <h5 class="h6 text-center">Shailesh Singh (Hindi : शैलेश सिंह) is an officer of the
                         Indian Police Service.</h6>
                         <p>
-                        I have worked in ONGC as an <b class="bold">electrical engineer</b>  for one year thereafter <b class="bold"> cracked civil services in first attempt, 1987.</b> I then started my career as a trainee in Virudhunagar district of Tamil Nadu as Assistant Superintendent of Police. Afterwards, I got posted as an SDOP in Tiruppur, the knitwear capital of India. Later I came to Madhya Pradesh and served in Durg as Additional Superintendent of Police. Later I served as the Superintendent of Police in Datia, Seoni and Chhindwara districts. I have also worked as the Commanding Officer of the State Armed Forces in Bilaspur and did the humongous job of shifting the whole battalion from Korba to Sakari in Bilaspur and worked very hard to settle down the complete battalion along with their families. I have served as DIG SAF, Eastern Range, MP, and managed 4 SAF battalions under my leadership. As Inspector General of Police, Narcotics, I have worked hard in combating drug trafficking. 
-                            
+                            I have worked in ONGC as an <b class="bold">ELECTRICAL ENGINEER</b> for one year thereafter
+                            <b class="bold"> cracked civil services in first attempt, 1987.</b> I then started my career
+                            as a trainee in Virudhunagar district of Tamil Nadu as Assistant Superintendent of Police.
+                            Afterwards, I got posted as an SDOP in Tiruppur, the knitwear capital of India. Later I came
+                            to Madhya Pradesh and served in Durg as Additional Superintendent of Police. Later I served
+                            as the Superintendent of Police in Datia, Seoni and Chhindwara districts. I have also worked
+                            as the Commanding Officer of the State Armed Forces in Bilaspur and did the humongous job of
+                            shifting the whole battalion from Korba to Sakari in Bilaspur and worked very hard to settle
+                            down the complete battalion along with their families. I have served as DIG SAF, Eastern
+                            Range, MP, and managed 4 SAF battalions under my leadership. As Inspector General of Police,
+                            Narcotics, I have worked hard in combating drug trafficking.
+
                         </p>
-                        <button class="btn btn-warning"><a href="about.html">Know More</a>
-                            
+                        <button class="btn btn-warning"><a href="about.php">Know More</a>
+
                         </button>
                 </div>
 
@@ -125,7 +135,7 @@
                                 <h5>Distinguished Service</h5>
                                 <p class="line2">In 2015,I was awarded the President’s Police Medal for Distinguished
                                     Service.</p>
-                                    <a href="DistinguishedServiceAward.php" class="btn btn-warning">Know More</a>
+                                <a href="DistinguishedServiceAward.php" class="btn btn-warning">Know More</a>
                             </div>
                         </div>
                     </div>
@@ -212,7 +222,10 @@
                         </div>
                         <div class="blog-text">
                             <p>
-                                Shaheed Bhagat Singh, who sacrificed his life to oust Britishers from India, is considered as one of the most influential revolutionaries of the Indian Independence Movement. Born on September 28, 1907, Bhagat Singh is an inspiration for the youth of India because of his courage and heroism in the freedom struggle.
+                                Shaheed Bhagat Singh, who sacrificed his life to oust Britishers from India, is
+                                considered as one of the most influential revolutionaries of the Indian Independence
+                                Movement. Born on September 28, 1907, Bhagat Singh is an inspiration for the youth of
+                                India because of his courage and heroism in the freedom struggle.
 
                             </p>
                             <a class="btn" href="single.php">Read More</a>
@@ -224,9 +237,10 @@
                         <img src="./img/img/quotes.jpg" alt="Blog">
                     </div>
                     <div class="blog-content">
-                        <h2 class="blog-title text-center">Revolution is an inalienable right of mankind. Freedom is an imperishable birthright of all.
+                        <h2 class="blog-title text-center">Revolution is an inalienable right of mankind. Freedom is an
+                            imperishable birthright of all.
 
-                            </h2>
+                        </h2>
                         <div class="blog-meta">
                             <i class="fa fa-list-alt"></i>
                             <a href="">Motivation</a>
@@ -235,7 +249,10 @@
                         </div>
                         <div class="blog-text">
                             <p>
-                                “Study so that you are able to meet arguments of your opponents. Equip your ideology with supporting arguments. If you oppose a prevailing belief, if you criticize a great person who is considered to be an incarnation, you will find that your criticism will be answered by calling you vain and egoist..... ”
+                                “Study so that you are able to meet arguments of your opponents. Equip your ideology
+                                with supporting arguments. If you oppose a prevailing belief, if you criticize a great
+                                person who is considered to be an incarnation, you will find that your criticism will be
+                                answered by calling you vain and egoist..... ”
                             </p>
                             <a class="btn" href="single1.php">Read More</a>
                         </div>
@@ -255,7 +272,11 @@
                         </div>
                         <div class="blog-text">
                             <p>
-                                “मेरा नाम हिन्दुस्तानी इंकलाब पार्टी का निशान बन चुका है और इंकलाब पसंद पार्टी के आदर्शों और बलिदानों ने मुझे बहुत ऊंचा कर दिया है । इतना ऊंचा कि जिंदा रहने की सूरत में इससे ऊंचा मैं हरगिज नहीं हो सकता। इसके सिवा कोई लालच मेरे दिल में फांसी से बचे रहने के लिए कभी नहीं आया, मुझसे ज्यादा खुशकिस्मत कौन होगा । मुझे आज तक अपने आप पर बहुत नाज है ......
+                                “मेरा नाम हिन्दुस्तानी इंकलाब पार्टी का निशान बन चुका है और इंकलाब पसंद पार्टी के
+                                आदर्शों और बलिदानों ने मुझे बहुत ऊंचा कर दिया है । इतना ऊंचा कि जिंदा रहने की सूरत में
+                                इससे ऊंचा मैं हरगिज नहीं हो सकता। इसके सिवा कोई लालच मेरे दिल में फांसी से बचे रहने के
+                                लिए कभी नहीं आया, मुझसे ज्यादा खुशकिस्मत कौन होगा । मुझे आज तक अपने आप पर बहुत नाज है
+                                ......
                             </p>
                             <a class="btn" href="single2.php">Read More</a>
                         </div>
@@ -265,9 +286,45 @@
         </div>
     </div>
     <!-- Blog End -->
+    <div class="blog">
+        <div class="container">
+            <div class="section-header">
+                <h2>Testimonials</h2>
+            </div>
+            <div class="owl-carousel blog-carousel">
+                <div class="blog-item">
+                    <div class="blog-img">
+                        <img src="./img/testinomials/testinomials_1.jpeg" alt="Blog">
+                    </div>
+
+                </div>
+                <div class="blog-item">
+                    <div class="blog-img">
+                        <img src="./img/testinomials/testinomials_2.jpeg" alt="Blog">
+                    </div>
+
+                </div>
+                <div class="blog-item">
+                    <div class="blog-img">
+                        <img src="./img/testinomials/testinomials_3.jpeg" alt="Blog">
+                    </div>
+
+                </div>
+                <div class="blog-item">
+                    <div class="blog-img">
+                        <img src="./img/testinomials/testinomials_4.jpeg" alt="Blog">
+                    </div>
+
+                </div>
+            </div>
+        </div>
 
 
-  <?php
+
+
+    </div>
+
+    <?php
   include 'footer.php';
   ?>
 </body>

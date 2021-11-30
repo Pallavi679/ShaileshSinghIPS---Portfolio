@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Shailesh Singh | Home</title>
+    <title>Shailesh Singh | Achievement</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Shailesh Singh IPS" name="keywords">
     <meta content="Shailesh Singh IPS" name="description">

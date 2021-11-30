@@ -101,7 +101,7 @@
                             <p>DG in Police Reforms at Police Headquarters, Bhopal</p>
                         </div>
                     </div>
-                    <div class="contact-info">
+                    <!-- <div class="contact-info">
                         <div class="contact-icon">
                             <i class="fa fa-phone-alt"></i>
                         </div>
@@ -109,7 +109,7 @@
                             <h3>Call for Help</h3>
                             <p>+91 79778 24184</p>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="contact-info">
                         <div class="contact-icon">
                             <i class="fa fa-envelope"></i>

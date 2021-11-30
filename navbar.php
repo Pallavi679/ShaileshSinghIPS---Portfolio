@@ -32,15 +32,15 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="top-bar-left">
-                        <div class="text">
+                        <!-- <div class="text">
                             <i class="fa fa-phone"></i>
                             <h2>+91 79778 24184</h2>
                             <p>Mon- Fir</p>
-                        </div>
+                        </div> -->
                         <div class="text">
                             <i class="fa fa-envelope"></i>
                             <h2>kodarishailesh@yahoo.co.in</h2>
-                            <p>For Query</p>
+                            <!-- <p>For Query</p> -->
 
 
                         </div>
